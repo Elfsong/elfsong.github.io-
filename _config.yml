@@ -6,21 +6,23 @@ title: Du Mingzhe # the website title (if blank, full name will be used instead)
 first_name: Du
 last_name: Mingzhe
 email: mingzhe@nus.edu.sg
+
 description: >
   The personal page of Du Mingzhe.
+
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: Du Mingzhe, Mingzhe Du, academic-website
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://elfsong.github.io # the base hostname & protocol for your site
-# baseurl: /al-folio # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
-impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+url: https://elfsong.github.io    # the base hostname & protocol for your site
+baseurl: /                        # the subpath of your site, e.g. /blog/
+last_updated: true                # set to true if you want to display last updated in the footer
+impressum_path:                   # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -67,7 +69,6 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: # your GitHub user name
-gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
@@ -109,9 +110,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: Mingzhe's Blog   # blog_name will be displayed in your blog page
+blog_nav_title: blog        # your blog must have a title for it to be displayed in the nav bar
+blog_description: A long time ago in a galaxy far far away
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -119,7 +120,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: mingzhedu # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
