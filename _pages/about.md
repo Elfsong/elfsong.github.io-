@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>(+65) 9658 2486</p>
-    <p>Innovation 4.0, 3 Research Link, Singapore 117602</p>
+    <p>Innovation 4.0</p>
+    <p>3 Research Link, Singapore 117602</p>
     <p>mingzhe [at] nus.edu.sg</p>
 
 news: true  # includes a list of news items
