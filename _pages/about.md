@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Assistant @ <a href='https://ids.nus.edu.sg/'>NUS IDS</a> / PhD @ <a href='https://www.ntu.edu.sg/scse'>NTU SCSE</a>
 
 profile:
   align: right
