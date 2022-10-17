@@ -13,6 +13,7 @@ profile:
     <p>Innovation 4.0</p>
     <p>3 Research Link, Singapore 117602</p>
     <p>mingzhe [at] nus.edu.sg</p>
+    <p>mingzhe001 [at] ntu.edu.sg</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
