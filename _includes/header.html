@@ -51,6 +51,7 @@
                   {%- endif -%}
                 </a>
               </li>
+
               {% if site.blog_nav_title %}
               <!-- Blog -->
               <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
@@ -94,6 +95,11 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
+
+              <li class="nav-item">
+                <a class="nav-link" href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}">cv</a>
+              </li>
+
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->
