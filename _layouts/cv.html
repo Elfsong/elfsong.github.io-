@@ -26,7 +26,7 @@ layout: default
                     {% elsif entry.type == "time_table" %}
                         {% include cv/time_table.html %}
                     {% elsif entry.type == "pdf" %}
-                        <div style="height: 80vh; width: 80vw;">{% include cv/pdf.html %}</div>
+                        <div style="height: 60vh; width: 80vw;">{% include cv/pdf.html %}</div>
                     {% else %}
                         {{ entry.contents }}
                     {% endif %}
