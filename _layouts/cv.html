@@ -27,7 +27,7 @@ layout: default
                         {% include cv/time_table.html %}
                     {% elsif entry.type == "pdf" %}
                         <!-- <div style="height: 60vh; width: 80vw;">{% include cv/pdf.html %}</div> -->
-                        <embed src="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" style="height: 60vh; width: 80vw;">
+                        <embed src="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}">
                     {% else %}
                         {{ entry.contents }}
                     {% endif %}
