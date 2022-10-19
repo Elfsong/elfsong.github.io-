@@ -27,7 +27,7 @@ layout: default
                         {% include cv/time_table.html %}
                     {% elsif entry.type == "pdf" %}
                         <!-- <div style="height: 60vh; width: 80vw;">{% include cv/pdf.html %}</div> -->
-                        <object data="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" type="application/pdf" style="height: 80vh;">
+                        <object data="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" type="application/pdf" style="height: 80vh; width: 90vw;">
                             <div>No online PDF viewer installed</div>
                         </object>
                     {% else %}
