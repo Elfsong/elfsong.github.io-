@@ -7,7 +7,7 @@ subtitle: Research Assistant @ <a href='https://ids.nus.edu.sg/'>NUS IDS</a> / P
 profile:
   align: right
   image: mingzhe_du.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>(+65) 9658 2486</p>
     <p>3 Research Link, Singapore 117602</p>
