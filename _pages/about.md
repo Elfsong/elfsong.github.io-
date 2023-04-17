@@ -25,6 +25,7 @@ Mingzhe got his master's degree at [the University of Melbourne](https://www.uni
 
 In recent times, Mingzhe has concentrated his research efforts on natural language processing (NLP) and its associated downstream tasks.
 
-# Professional Services:
+Professional Service:
 - AAAI Student Member
 - ACM Professional Member
+- CLEF PC Member
