@@ -2,9 +2,8 @@
 layout: post
 title:  Vancouver
 date: 2024-02-24 18:00:00
-description: Queen Elizabeth Park
+description: Landscape @ Queen Elizabeth Park
 tags: images
-categories: sample-posts
 ---
 
 
