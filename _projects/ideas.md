@@ -2,7 +2,7 @@
 layout: page
 title: Ideas
 description: Brainstorm
-img: assets/img/phragmites.jpg
+img: assets/img/phragmites.jpeg
 importance: 3
 category: work
 ---
