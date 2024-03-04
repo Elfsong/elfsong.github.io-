@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Vancouver
+title:  Vancouver🏔️
 date: 2024-02-24 18:00:00
 description: Landscape @ Queen Elizabeth Park
 tags: images
@@ -13,6 +13,6 @@ tags: images
     </div>
 </div>
 <div class="caption">
-    Sunset, birds, and buildings in Vancouver.
+    Sunset / Mountain / Birds / Buildings
 </div>
 
