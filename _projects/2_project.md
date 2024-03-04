@@ -2,7 +2,7 @@
 layout: page
 title: project 2
 description: a project with images
-img: assets/img/3.jpg
+img: assets/img/vancouver.jpg
 importance: 2
 category: work
 ---
