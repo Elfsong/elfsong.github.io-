@@ -29,3 +29,8 @@ Professional Service:
 - AAAI Student Member
 - ACM Professional Member
 - CLEF PC Member
+
+Contact Info:
+- 3 Research Link, Singapore 117602
+- mingzhe [at] nus.edu.sg
+- mingzhe001 [at] ntu.edu.sg
