@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Conference
-description: Conference Trip
-img: assets/img/vancouver.jpg
+title: Ideas
+description: Brainstorm
+img: assets/img/phragmites.jpg
 importance: 3
 category: work
 ---
