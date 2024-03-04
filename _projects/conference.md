@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with images
+title: Conference
+description: Conference Trip
 img: assets/img/vancouver.jpg
 importance: 2
 category: work
