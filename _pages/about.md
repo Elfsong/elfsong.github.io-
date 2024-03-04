@@ -26,6 +26,6 @@ Mingzhe got his master's degree at *the University of Melbourne*, under the guid
 Recently, Mingzhe has concentrated his research efforts on natural language processing (NLP) and its associated downstream tasks.
 
 **Contact Info:**
-> 3 Research Link, Singapore 117602
-> mingzhe [at] nus.edu.sg
-> mingzhe001 [at] ntu.edu.sg
+- 📮: 3 Research Link, Singapore 117602
+- 📨: mingzhe [at] nus.edu.sg
+- 📨: mingzhe001 [at] ntu.edu.sg
