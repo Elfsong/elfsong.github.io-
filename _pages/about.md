@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Research Assistant @ <a href='https://ids.nus.edu.sg/'>NUS IDS</a> / PhD Student @ <a href='https://www.ntu.edu.sg/scse'>NTU SCSE</a>
 
@@ -8,11 +8,11 @@ profile:
   align: right
   image: mingzhe_du.jpeg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>(+65) 9658 2486</p>
-    <p>3 Research Link, Singapore 117602</p>
-    <p>mingzhe [at] nus.edu.sg</p>
-    <p>mingzhe001 [at] ntu.edu.sg</p>
+  # address: >
+  #   <p>(+65) 9658 2486</p>
+  #   <p>3 Research Link, Singapore 117602</p>
+  #   <p>mingzhe [at] nus.edu.sg</p>
+  #   <p>mingzhe001 [at] ntu.edu.sg</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
