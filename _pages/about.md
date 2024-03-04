@@ -27,5 +27,5 @@ Recently, Mingzhe has concentrated his research efforts on natural language proc
 
 **Contact Info:**
 - 📮: 3 Research Link, Singapore 117602
-- 📨: [mingzhe [at] nus.edu.sg](mailto:mingzhe@nus.edu.sg)
-- 📨: [mingzhe001 [at] ntu.edu.sg](mailto:mingzhe001@ntu.edu.sg)
+- 📨: mingzhe [at] nus.edu.sg
+- 📨: mingzhe001 [at] ntu.edu.sg
