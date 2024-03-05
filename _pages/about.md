@@ -23,7 +23,7 @@ Du Mingzhe is a Research Assistant at *the Institute of Data Science*, *National
 
 Mingzhe got his master's degree at *the University of Melbourne*, under the guidance of [Prof. Richard Sinnott](https://findanexpert.unimelb.edu.au/profile/342078-richard-sinnott).
 
-Recently, Mingzhe has concentrated his research efforts on natural language processing (NLP) and its associated downstream tasks.
+Recently, Mingzhe has concentrated his research efforts on natural language processing (NLP) and its associated downstream tasks. His favorite drink is Iced Americano.
 
 **Contact Info:**
 - 📮: 3 Research Link, Singapore 117602
