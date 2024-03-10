@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img: assets/img/6.jpg
+title: Food
+description: Gastronomic Delight
+img: assets/img/food.jpg
 importance: 3
 category: fun
 ---
