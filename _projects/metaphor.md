@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Talk with Mingzhe
+title: Metaphor
 description: Virtual Assistant
 img: assets/img/brain.jpg
 importance: 1

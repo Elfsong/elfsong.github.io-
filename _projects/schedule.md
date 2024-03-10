@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Schedule
+title: Schedule
 description: Hustle and Bustle
 img: assets/img/desktop.jpg
 importance: 1
