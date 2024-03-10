@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img: assets/img/4.jpg
+title: Talk with Mingzhe
+description: Virtual Assistant
+img: assets/img/brain.jpg
 importance: 3
 category: fun
 ---
