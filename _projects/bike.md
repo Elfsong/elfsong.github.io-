@@ -84,5 +84,6 @@ category: fun
     I decided to have a foldable bike when I jumped to Singapore. It indeed expands my life circle. 
 </div>
 
+---
 
-The wheels are still rolling!
+# The wheels are still rolling!
