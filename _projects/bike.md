@@ -7,7 +7,7 @@ importance: 2
 category: fun
 ---
 
-The wheels are still rolling!
+
 
 <!-- 00 -->
 <div class="row">
@@ -17,9 +17,6 @@ The wheels are still rolling!
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/bikes/bike_0_1.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <!-- <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/bikes/bike_0_2.jpg" class="img-fluid rounded z-depth-1" %}
-    </div> -->
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/bikes/bike_0_3.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -88,3 +85,5 @@ The wheels are still rolling!
     I decided to have a foldable bike when I jumped to Singapore. It indeed expands my life circle. 
 </div>
 
+
+The wheels are still rolling!
