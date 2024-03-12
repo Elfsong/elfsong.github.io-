@@ -23,7 +23,7 @@ category: fun
 <div class="caption">
     My first bike is a cross-country bike. I bought it when I was a high school student (Oh more than 10 years alreay).
     I am updating and polishing it from time to time. 
-    It is standing on my balcony now.
+    Currently, it resides on my balcony, a testament to the miles we've traversed together.
 </div>
 
 
@@ -34,7 +34,8 @@ category: fun
     </div>
 </div>
 <div class="caption">
-    It is a fixed gear bike. I bought it when I entered college (I post a similar one from <a href="https://unsplash.com/@tonchik?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Anton Savinov</a> since I can't find itself pictures).
+    This bicycle is a fixed-gear model. I purchased it upon commencing my college journey. 
+    Since I'm unable to locate any photos of the actual bike, I selected a similar one from <a href="https://unsplash.com/@tonchik?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Anton Savinov</a>.
 </div>
 
 
@@ -49,7 +50,7 @@ category: fun
 </div>
 <div class="caption">
     When I moved to Melbourne. I managed to get another fixed gear.
-    I even used to do the part-time Uber delievery for a period.
+    I even used it to do Uber delievery for a period.
 </div>
 
 
@@ -60,8 +61,7 @@ category: fun
     </div>
 </div>
 <div class="caption">
-    After staying in Australia for two years, I got this road bike. I solo ride it from Melbourne City to Fort Nepean, Sorrento.
-    Unfortunately, it was stolen on the last day when I was studying at UniMelb.
+    After residing in Australia for a period of two years, I acquired a road bicycle. I embarked on a solo journey with it, traversing from the heart of Melbourne City to the scenic Fort Nepean in Sorrento. Regrettably, on the final day of my studies at the University of Melbourne, the bike was stolen.
 </div>
 
 
@@ -81,7 +81,7 @@ category: fun
     </div>
 </div>
 <div class="caption">
-    I decided to have a foldable bike when I jumped to Singapore. It indeed expands my life circle. 
+    I decided to have a foldable bike upon my arrival in Singapore, which has considerably broadened the scope of my daily explorations.
 </div>
 
 ---
