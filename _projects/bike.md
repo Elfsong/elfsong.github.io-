@@ -28,9 +28,9 @@ category: fun
 
 
 <!-- 01 -->
-<div class="row justify-content-sm-center">
+<div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/bikes/bike_1_0.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/bikes/bike_1_0.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
