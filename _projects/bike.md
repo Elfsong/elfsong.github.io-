@@ -8,7 +8,6 @@ category: fun
 ---
 
 
-
 <!-- 00 -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -22,7 +21,7 @@ category: fun
     </div>
 </div>
 <div class="caption">
-    My first bike is a cross-country bike. I bought it when I was a high school student (Oh more than 10 years).
+    My first bike is a cross-country bike. I bought it when I was a high school student (Oh more than 10 years alreay).
     I am updating and polishing it from time to time. 
     It is standing on my balcony now.
 </div>
@@ -31,7 +30,7 @@ category: fun
 <!-- 01 -->
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/bikes/bike_1_0.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/bikes/bike_1_0.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
