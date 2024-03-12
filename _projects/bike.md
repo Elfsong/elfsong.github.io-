@@ -61,7 +61,7 @@ category: fun
 </div>
 <div class="caption">
     After staying in Australia for two years, I got this road bike. I solo ride it from Melbourne City to Fort Nepean, Sorrento.
-    It was stolen on the last day when I was studying at UniMelb.
+    Unfortunately, it was stolen on the last day when I was studying at UniMelb.
 </div>
 
 
