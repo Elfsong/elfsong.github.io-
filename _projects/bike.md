@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Bike
+title: Bikes
 description: Where The Trail Ends
 img: assets/img/bike-01.jpg
 importance: 2
 category: fun
 ---
+
+The wheels are still rolling!
 
 <!-- 00 -->
 <div class="row">
@@ -87,6 +89,5 @@ category: fun
 </div>
 <div class="caption">
     I decided to have a foldable bike when I jumped to Singapore. It indeed expands my life circle. 
-    The wheels are still rolling:)
 </div>
 
