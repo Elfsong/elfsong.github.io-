@@ -3,7 +3,7 @@ layout: post
 title:  A Bitter Lesson
 date: 2024-03-17 15:00:00
 description: Machine Learning Progress
-tags: ThinkTank
+tags: thinktank
 ---
 
 # The Bitter Lesson
