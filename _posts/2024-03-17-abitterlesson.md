@@ -1,13 +1,10 @@
 ---
 layout: post
-title:  Vancouver🏔️
-date: 2024-02-24 18:00:00
-description: Landscape @ Queen Elizabeth Park
+title:  The Bitter Lesson
+date: 2024-03-17 12:00:00
+description: Rich Sutton (March 13, 2019)
 tags: images
 ---
-
-# The Bitter Lesson
-Rich Sutton (March 13, 2019)
 
 The biggest lesson that can be read from 70 years of AI research is that general methods that leverage computation are ultimately the most effective, and by a large margin. The ultimate reason for this is Moore's law, or rather its generalization of continued exponentially falling cost per unit of computation. Most AI research has been conducted as if the computation available to the agent were constant (in which case leveraging human knowledge would be one of the only ways to improve performance) but, over a slightly longer time than a typical research project, massively more computation inevitably becomes available. Seeking an improvement that makes a difference in the shorter term, researchers seek to leverage their human knowledge of the domain, but the only thing that matters in the long run is the leveraging of computation. These two need not run counter to each other, but in practice they tend to. Time spent on one is time not spent on the other. There are psychological commitments to investment in one approach or the other. And the human-knowledge approach tends to complicate methods in ways that make them less suited to taking advantage of general methods leveraging computation. There were many examples of AI researchers' belated learning of this bitter lesson, and it is instructive to review some of the most prominent.
 
