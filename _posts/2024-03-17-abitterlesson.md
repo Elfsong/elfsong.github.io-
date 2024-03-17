@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Bitter Lesson
-date: 2024-03-17 12:00:00
+date: 2024-03-16 18:00:00
 description: Rich Sutton (March 13, 2019)
 tags: images
 ---
