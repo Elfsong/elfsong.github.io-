@@ -38,7 +38,7 @@ The second general point to be learned from the bitter lesson is that the actual
 
 从痛苦的教训中学习到的第二个普遍观点是，心智的实际内容不可救药地复杂；我们应当停止尝试寻找体现思考心智内容的简单方式，比如利用空间、对象、多代理或者对称性。所有这些都是本质上任意复杂的外部世界的一部分, 它们不应该被人为定义，因为它们的复杂性是无穷无尽的；相反，我们应当只定义可以找到并捕获这种任意复杂性的元方法。这种方法的关键在于如何使用我们定义的元方法来找到良好的近似，而不是我们自己寻找。我们希望人工智能可以像我们一样去发现，而不是只包含我们已经发现的东西。人为定义我们的已有的发现，只会让我们更难看到发现的过程。
 
-## Takeaway
+## Takeaways
 * Embrace general-purpose methods such as search and learning that effectively scale with increased computational resources, transcending limits inherent in specifically designed approaches.
 * Focus on developing meta-methods capable of understanding and capturing complexity instead of hard-coding our existing knowledge about the world, which is intrinsically complex and ever-evolving.
 
