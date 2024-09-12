@@ -6,7 +6,7 @@ subtitle: PhD Student @ <a href='https://www.ntu.edu.sg/computing'>NTU CCDS</a> 
 
 profile:
   align: right
-  image: mingzhe_du.jpeg
+  image: mingzhe.jpg
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>(+65) 9658 2486</p>
