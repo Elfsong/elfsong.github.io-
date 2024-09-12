@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student @ <a href='https://www.ntu.edu.sg/computing'>NTU CCDS</a> / Research Assistant @ <a href='https://ids.nus.edu.sg/'>NUS IDS</a> / Research Engineer @ <a href='https://[ids.nus.edu.sg](https://cisco-nus.nus.edu.sg/'>CISCO NUS</a>
+subtitle: PhD Student @ <a href='https://www.ntu.edu.sg/computing'>NTU CCDS</a> / Research Assistant @ <a href='https://ids.nus.edu.sg/'>NUS IDS</a> / Research Engineer @ <a href='https://cisco-nus.nus.edu.sg/'>CISCO NUS</a>
 
 profile:
   align: right
