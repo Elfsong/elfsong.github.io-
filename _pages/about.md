@@ -23,4 +23,4 @@ Currently, Mingzhe's research interests lie in *Natural Language Processing (NLP
 
 **Contact Info:**
 - 📮: 3 Research Link, Singapore 117602
-- 🏢 mingzhe [at] nus.edu.sg / 🏛️ mingzhe001 [at] ntu.edu.sg / 🏰 mz [at] alumni.unimelb.edu.au
+- 🏢 mingzhe [at] nus.edu.sg / 🏛️ mingzhe001 [at] ntu.edu.sg
