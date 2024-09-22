@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>PhD Student</strong> @ <a href='https://www.ntu.edu.sg/computing'>NTU CCDS</a> / <strong>Research Assistant</strong> @ <a href='https://ids.nus.edu.sg/'>NUS IDS</a> / <strong>Research Engineer</strong> @ <a href='https://cisco-nus.nus.edu.sg/'>CISCO NUS</a>
+subtitle: <strong>PhD Student @ <a href='https://www.ntu.edu.sg/computing'>NTU CCDS</a> / Research Assistant @ <a href='https://ids.nus.edu.sg/'>NUS IDS</a> / Research Engineer @ <a href='https://cisco-nus.nus.edu.sg/'>CISCO NUS</a></strong>
 
 profile:
   align: right
@@ -17,10 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Du Mingzhe is a third-year PhD student at the *College of Computing and Data Science (CCDS)*, *Nanyang Technological University (NTU)*, supervised by [Prof. Luu Anh Tuan](https://tuanluu.github.io/). He is also a Research Assistant at the *Institute of Data Science (IDS)*, *National University of Singapore (NUS)*, working closely with [Prof. See-Kiong Ng](https://www.comp.nus.edu.sg/~ngsk/). Mingzhe got his master's degree at the *University of Melbourne*, under the guidance of [Prof. Richard Sinnott](https://findanexpert.unimelb.edu.au/profile/342078-richard-sinnott). Before his PhD journey, Mingzhe developed [Tiktok](https://www.tiktok.com/) search engine at *ByteDance*.
+Du Mingzhe (杜 明哲) is a third-year PhD student at the *College of Computing and Data Science (CCDS)*, *Nanyang Technological University (NTU)*, supervised by [Prof. Luu Anh Tuan](https://tuanluu.github.io/). He is also a Research Assistant at the *Institute of Data Science (IDS)*, *National University of Singapore (NUS)*, working closely with [Prof. See-Kiong Ng](https://www.comp.nus.edu.sg/~ngsk/). Mingzhe got his master's degree at the *University of Melbourne*, under the guidance of [Prof. Richard Sinnott](https://findanexpert.unimelb.edu.au/profile/342078-richard-sinnott). Before his PhD journey, Mingzhe developed [Tiktok](https://www.tiktok.com/) search engine at *ByteDance*.
 
 Currently, Mingzhe's research interests lie in *Natural Language Processing (NLP)* and its downstream tasks [[Google Scholar](https://scholar.google.com/citations?user=CJHW1IgAAAAJ)]. By the way, his favorite drink is Iced Americano [☕️](https://www.buymeacoffee.com/mingzhe).
 
-<!-- **Contact Info:** -->
+**Contact Info:**
 - 📮: 3 Research Link, Singapore 117602
 - 🏢 mingzhe [at] nus.edu.sg / 🏛️ mingzhe001 [at] ntu.edu.sg / 🏰 mz [at] alumni.unimelb.edu.au
