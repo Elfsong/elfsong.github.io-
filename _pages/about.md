@@ -21,8 +21,8 @@ Du Mingzhe is a third-year PhD student at the *College of Computing and Data Sci
 
 Currently, Mingzhe's research interests lie in *Natural Language Processing (NLP)* and its downstream tasks [[Google Scholar](https://scholar.google.com/citations?user=CJHW1IgAAAAJ)]. By the way, his favorite drink is Iced Americano [☕️](https://www.buymeacoffee.com/mingzhe).
 
-**Contact Info:**
+<!-- **Contact Info:**
 - 📮: 3 Research Link, Singapore 117602
 - 🏢: mingzhe [at] nus.edu.sg
 - 🏛️: mingzhe001 [at] ntu.edu.sg
-- 🏰: mz [at] alumni.unimelb.edu.au
+- 🏰: mz [at] alumni.unimelb.edu.au -->
