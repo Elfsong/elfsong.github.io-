@@ -8,11 +8,11 @@ profile:
   align: right
   image: mingzhe.jpg
   image_circular: false # crops the image to make it circular
-  # address: >
-  #   <p>(+65) 9658 2486</p>
-  #   <p>3 Research Link, Singapore 117602</p>
-  #   <p>mingzhe [at] nus.edu.sg</p>
-  #   <p>mingzhe001 [at] ntu.edu.sg</p>
+  address: >
+    <p>(+65) 9658 2486</p>
+    <p>3 Research Link, Singapore 117602</p>
+    <p>mingzhe [at] nus.edu.sg</p>
+    <p>mingzhe001 [at] ntu.edu.sg</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
