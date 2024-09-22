@@ -9,8 +9,8 @@ profile:
   image: mingzhe.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <img src="assets/img/ntu_logo.png" alt="NTU" width="10%">
-    <img src="assets/img/nus_logo.png" alt="NUS" width="10%">
+    <img src="assets/img/logos.png" alt="NTU" width="100%">
+
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
