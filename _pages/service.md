@@ -8,8 +8,6 @@ nav_order: 1
 horizontal: false
 ---
 
-# Conference Reviewers
-- 2024
-  - Reviewer, AISTATS 2024
-  - Reviewer, ICLR 2024
-  - Reviewer, NeurIPS 2024
+- Reviewer, AISTATS 2024
+- Reviewer, ICLR 2024
+- Reviewer, NeurIPS 2024
