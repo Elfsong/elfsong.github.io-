@@ -9,9 +9,10 @@ horizontal: false
 ---
 
 # Conference Reviewers
-- Reviewer, AISTATS 2024
 - Reviewer, ICLR 2024
+- Reviewer, ICML 2025
 - Reviewer, NeurIPS 2024
+- Reviewer, AISTATS 2024
 
 # Consultation
 - STEM Mentor, University of Melbourne, 2020 - Present
